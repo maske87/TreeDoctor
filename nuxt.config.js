@@ -22,7 +22,6 @@ export default {
   ** Global CSS
   */
   css: [
-    '~/assets/css/main.css',
     '~/assets/scss/main.scss'
   ],
   render: {
